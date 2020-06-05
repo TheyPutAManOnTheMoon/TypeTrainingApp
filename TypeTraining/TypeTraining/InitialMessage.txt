@@ -1,0 +1,11 @@
+﻿Dear User,
+
+I developed this barebones app as a training tool to type faster by reinforcing individual keys. Characters are shown one by one randomly without any additional context. Without the possibility to foresee pending characters it is impossible to exercise typing patterns and one is forced to reinforce the association of individual keys with their corresponding characters.
+
+This tool is meant to be used in conjuncture with a proper typing training app like TIPP10.
+
+To start a training session, type in the keys/symbols you want to appear as cards and chose how many cards will be displayed in one session. The goal should be firstly to make as little errors as possible before training to increase speed.
+
+I hope this app can be of use to you
+
+Marques Paiva Ricardo

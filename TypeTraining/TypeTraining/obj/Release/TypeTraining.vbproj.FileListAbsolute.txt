@@ -1,0 +1,13 @@
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\bin\Release\TypeTraining.exe
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.Form1.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.p0_Message.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.p1_StartWindow.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.p2_Exercise.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.p3_Results.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.NavigationBar.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.zDataRow.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTrainingN.zDataTable.resources
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTraining.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2008\Projects\TypeTraining\TypeTraining\obj\Release\TypeTraining.exe
